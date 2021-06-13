@@ -1,4 +1,9 @@
 +++++
+Requirements:
+
+PyAudio
+
++++++
 How to Beep:
 
 Beep introduces four new operators (Beepers), and one known. Familiar, yet, not so familiar:
